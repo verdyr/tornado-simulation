@@ -1,0 +1,1 @@
+java -XstartOnFirstThread -jar target/tornado-simulation-1.0-SNAPSHOT.jar
